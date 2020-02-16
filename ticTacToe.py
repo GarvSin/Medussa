@@ -1,10 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Spyder Editor
-
-This is a temporary script file.
-"""
-
 class tryingticktock:
     def __init__(self,myList):
         self.myList = myList
