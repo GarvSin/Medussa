@@ -1,2 +1,2 @@
-# Medussa
+# my-python
 Python
